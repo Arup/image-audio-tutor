@@ -1,4 +1,4 @@
-French Oral Exam Tutor (Gemini 2.5 Native Audio)
+French Oral Exam Tutor (Gemini 2.5 Native Audio) as a test case -- can be extended to most languages
 A high-performance Streamlit application designed for French language students. This tutor utilizes Google’s Gemini 1.5/2.5 multimodal models to provide real-time feedback on French grammar and phonetics by analyzing textbook screenshots and voice recordings.
 
 The Problem it Solves
